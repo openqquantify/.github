@@ -88,40 +88,6 @@ A **cross-platform** (Linux-focused) library for monitoring, analyzing, and mana
   - Customizable alerts and logging  
   - Command-line tools and Python API interface  
 
----
-
-## Additional Repositories
-
-In addition to our featured public projects, we maintain other repositories—some private for internal or client-specific development. Below is an overview of our full repository landscape:
-
-### Private Repositories
-
-1. **GreenEnergyInstitute**  
-   > **TypeScript** | **License**: MIT | *Updated 2 weeks ago*  
-   - Focuses on sustainable and **green energy** solutions, prototypes, and tools.
-
-2. **MyChemistryLab**  
-   > **TypeScript** | **License**: MIT | *Updated 2 weeks ago*  
-   - A platform for **chemical simulations**, modeling compounds, and academic research integration.
-
-3. **LandingPages**  
-   > **HTML** | *Updated on Mar 5*  
-   - Repository for the main **company and subsidiary landing pages**, showcasing services and products.
-
-4. **WEB-DEV**  
-   > **HTML** | *Updated on Jan 26*  
-   - A core repository of **web development** resources, shared components, and internal frameworks.
-
-5. **Digital-Twin**  
-   > *Updated on Jan 18*  
-   - Internal R&D environment for exploring advanced **digital twin** concepts and frameworks.
-
-6. **RISCV-Pipeline**  
-   > **Python** | *Updated on Nov 29, 2024*  
-   - A pipeline for autonomous development on **RISC-V** architecture, potentially involving hardware modeling, simulators, and optimized toolchains.
-
----
-
 ## How to Get Involved
 
 1. **Contribute**  
