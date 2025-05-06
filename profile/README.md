@@ -64,7 +64,6 @@ To help users **understand process-level performance** on Linux, and build scrip
 - Pythonic API for integration in larger projects
 
 ---
-
 ### 3. 📡 RF-Signal-Analyzer  
 [🔗 View on GitHub](https://github.com/openqquantify/RF-Signal-Analyzer)
 
@@ -78,6 +77,53 @@ To simulate and visualize RF data streams for experimentation and education.
 - Basic modulation recognition  
 - Plotting for educational purposes  
 - Lightweight Python framework
+
+### 4. E-Commerce-Gemstone-Jewery-Material-Shopping-Platform
+[🔗 View on Github](https://github.com/openqquantify/E-Commerce-Gemstone-Jewelry-Material-Shopping-Platform)
+
+OpenQQuantify E-Commerce Gemstone & Jewelry Platform is a modern, secure, and feature-rich digital marketplace built with Flask, Bootstrap, Stripe, and Web3 integration. Designed for buying and selling luxury gemstones and jewelry, it combines traditional payment gateways with cryptocurrency and smart contracts to offer a seamless shopping experience. The platform supports user roles (buyers and merchants), secure authentication, advanced product listings, and responsive design. Merchants benefit from dedicated dashboards, real-time inventory updates, and image management, while buyers enjoy advanced search, detailed specifications, and multiple payment options. Built with scalability, SEO optimization, and modular best practices, it’s ready for production deployment with MySQL and invites collaborators, investors, and partners to join its growing ecosystem.
+
+**Purpose:**   
+- To revolutionize the luxury jewelry and gemstone industry by building a trusted, modern, and secure online marketplace that connects buyers and sellers around the world.   
+- Our goal is to empower jewelry merchants to grow their business digitally, while giving buyers a reliable and transparent place to discover and purchase high-quality, authenticated gemstones and fine jewelry with full confidence.
+
+**Features**   
+- Marketplace for Buyers & Sellers
+- Merchant Support
+- Secure User Accounts
+- Multiple Payment Options
+- Mobile-Ready Design
+- Advanced Search Tools
+- Detailed Listings
+- Real-Time Inventory
+
+---
+### RISC-V
+RISC-V architecture, a revolutionary open-source Instruction Set Architecture (ISA), has ushered in new possibilities for hardware design. However, optimizing it for real-world applications requires deep expertise.
+
+**Purpose**   
+- Optimizing performance and power consumption
+- Automating Embedded systems development
+
+**Features**   
+- ⚙️ Low-level Assembly Code Generation
+- 💻 C/C++ Code Optimization
+- 🔧 Instruction-level Optimizations
+---
+
+### Circuit-LLM-3D   
+Our 3D Viewer Tool allows you to visualize, interact, and simulate various electronic boards, including open-source and FPGA boards.
+
+**Purpose:**   
+- To allow users to interact with and inspect three-dimensional models in a digital space.
+- To enhance understanding, visualization, and engagement with complex or physical products, environments, or data.
+
+**Features:**  
+- Collaboration and Version Control
+- Extensive Component Database
+- Real-Time Sensor Simulation
+- Advanced LLM Integration
+- Comprehensive Board Support
 
 ---
 
