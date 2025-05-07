@@ -98,6 +98,25 @@ OpenQQuantify E-Commerce Gemstone & Jewelry Platform is a modern, secure, and fe
 - Real-Time Inventory
 
 ---
+### 5. 🌎 OpenQQuantify-Cesium-Digital-Twins-Simulations
+[🔗 View on GitHub](https://github.com/openqquantify/OpenQQuantify-Cesium-Digital-Twins-Simulations)
+This repository represents the OpenQQuantify's 3D Digital Twin Replica of the Entire World, including Physics, Robotics, Electronics Simulations and more. It is useful for simulating and testing real-time Objects that are placed on 3D map because it offers developers and different domains perspectives about the projects and tests they are experimenting, from sensor simulations to flying satellites simulations.
+
+**Purpose:**
+To visualize 3D models, simulate sensors, and process real-time data by leveraging Cesium’s 3D mapping capabilities, creating dynamic and interactive applications for a range of industries, from IoT integration to advanced sensor simulations.
+
+**Features**
+- 3D model Integration with Cesium
+- Advanced Sensor Simulation
+- Real-time Data Processing
+- Modular Architecture
+- Rotation control of object
+- Simulation of Object Movement
+- Collision Detection and Overlapping Objects 
+
+
+---
+
 ### RISC-V
 RISC-V architecture, a revolutionary open-source Instruction Set Architecture (ISA), has ushered in new possibilities for hardware design. However, optimizing it for real-world applications requires deep expertise.
 
